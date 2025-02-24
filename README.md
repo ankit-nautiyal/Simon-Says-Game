@@ -1,6 +1,6 @@
 # Simon Says Game
 
-## This is a popular Simon Says game built using HTML, CSS & JavaScript and deployed suing Vercel.
+## This is a popular Simon Says game built using HTML, CSS & JavaScript and deployed using Vercel.
 ---
 
 ### Features:
