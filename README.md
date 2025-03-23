@@ -7,7 +7,10 @@
 - Displays the user's current level
 - Displays the user's score
 - Displays the user's max score
-- Displays flash effect on losing & crossing the last max score
+- Displays game rules 
+- Displays flash & sound effects on losing
+- Makes sound effects crossing the last max score
+- Makes sound effects by pressing any coloured button
 - Displays correct button sequence after the user's game is over
 ---
 
