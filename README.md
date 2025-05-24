@@ -7,6 +7,7 @@
 - Displays the user's current level
 - Displays the user's score
 - Displays the user's max score
+- Displays flash effect on losing
 
 ---
 
